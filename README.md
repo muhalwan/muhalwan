@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/muhalwan/muhalwan/output/snake.svg" alt="Snake animation" />
-
-###
