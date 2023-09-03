@@ -14,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" alt="kubernetes logo"  />
   <!-- Add more icons here -->
 </p>
-<br clear="both"> 
+
+
+
 ### 🌐 Connect with Me
 <p align="left">
   <a href="mailto:muhalwan12@gmail.com" target="_blank">
