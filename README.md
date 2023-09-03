@@ -1,20 +1,13 @@
-<h2 align="left">👨‍💻 Hey there! I'm Alwan</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhalwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhalwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</p>
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="animated code gif" />
+<h2 align="left">👨‍💻 Alwan: DevOps Engineer & Machine Learning Enthusiast</h2>
 
 ### 🚀 About Me
-- 🔭 **Role:** DevOps Engineer & Machine Learning Enthusiast.
-- 🌱 **Currently Learning:** Advanced Kubernetes & Reinforcement Learning.
-- 💬 **Fun Fact:** I can automate almost anything, but still brew my coffee manually.
+- 🔭 **Role:** DevOps Engineer with a penchant for Machine Learning.
+- 🌱 **Currently Exploring:** Advanced Kubernetes deployments & Reinforcement Learning techniques.
+- 📖 **Latest Blog:** [How to deploy ML models with Kubernetes](#YourBlogLinkHere)
+- 💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.
 
 ### 🔧 Technologies & Tools
-<p>
-  <!-- Add or remove logos as per your preference -->
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" alt="kubernetes logo"  />
@@ -22,7 +15,7 @@
 </p>
 
 ### 🌐 Connect with Me
-<p>
+<p align="left">
   <a href="derp#3344" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
