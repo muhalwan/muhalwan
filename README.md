@@ -1,9 +1,10 @@
-<h2 align="left">👨‍💻 Alwan: DevOps Engineer & Machine Learning Enthusiast</h2>
+<h2 align="left">👨‍💻 Hey there! I'm Alwan</h2>
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="animated code gif" />
 
 ### 🚀 About Me
-- 🔭 **Role:** DevOps Engineer with a penchant for Machine Learning.
+- 🔭 **Role:** DevOps Engineer with a focus on scalable and efficient pipelines.
 - 🌱 **Currently Exploring:** Advanced Kubernetes deployments & Reinforcement Learning techniques.
-- 📖 **Latest Blog:** [How to deploy ML models with Kubernetes](#YourBlogLinkHere)
 - 💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.
 
 ### 🔧 Technologies & Tools
@@ -13,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" alt="kubernetes logo"  />
   <!-- Add more icons here -->
 </p>
+
+<br clear="both"> 
 
 ### 🌐 Connect with Me
 <p align="left">
