@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 🔭 **Current Focus:** Building end-to-end ML systems
 - 🌱 **Specializing In:** ML architectures & MLOps infrastructure
-- - 💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.
+- 💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.
 - 🌐 **My Portfolio:** [muhalwan.vercel.app](https://muhalwan.vercel.app)
 
 ### 🔧 Technologies & Tools
