@@ -18,7 +18,6 @@
   <!-- MLOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins logo" />
-  <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final.png" height="40" alt="MLflow" title="MLflow" />
   
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
