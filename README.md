@@ -1,21 +1,28 @@
 <h2 align="left">👨‍💻 Hello! I'm Alwan</h2>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="animated code gif" />
+<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="machine-learning-animation" />
 
 ### 🚀 About Me
-- 🔭 **Current Role:** DevOps Engineer specializing in designing scalable and efficient CI/CD pipelines.
-- 🌱 **Learning Focus:** Diving deep into advanced Kubernetes deployments and Reinforcement Learning algorithms.
-- 💬 **Fun Fact:** Automation is my expertise, but I still take the time to brew my coffee manually every morning.
-- 🌐 **My Portfolio:** [muhalwan.github.io](https://muhalwan.github.io)
+- 🔭 **Current Focus:** Building end-to-end ML systems
+- 🌱 **Specializing In:** ML architectures & MLOps infrastructure
+- - 💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.
+- 🌐 **My Portfolio:** [muhalwan.vercel.app](https://muhalwan.vercel.app)
 
 ### 🔧 Technologies & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" alt="Kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" title="Scikit-Learn" />
+  
+  <!-- MLOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final.png" height="40" alt="MLflow" title="MLflow" />
+  
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
 
 ### 🌐 Let's Connect
