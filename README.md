@@ -1,50 +1,43 @@
-<h2 align="center">👋 Hello! I'm Alwan</h2>
+# Hi there, I'm Alwan 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="machine-learning-animation" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="machine-learning-animation" />
 </div>
+
+## 🚀 Machine Learning Engineer
+
+Ordinary engineer
+
+### About Me
+
+- 🔭 **Currently:** Building scalable ML systems and experimenting with cutting-edge architectures
+- ⚡ **Fun fact:** Automation is my forte, but I still brew my coffee manually ☕
+- 🌐 **Portfolio:** [muhalwan.vercel.app](https://muhalwan.vercel.app)
+
+### Tech Stack
 
 <div align="center">
   
-### 🚀 Machine Learning Engineer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### Let's Connect
+
+<div align="center">
   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhalwan12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhalwan/)
+
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
-      
-**About Me**  
-🔭 **Current Focus:** Building end-to-end ML systems  
-🌱 **Specializing In:** ML architectures & MLOps infrastructure  
-💬 **Fun Fact:** Automation is my forte, but I still brew my coffee manually.  
-🌐 **My Portfolio:** [muhalwan.vercel.app](https://muhalwan.vercel.app)
+---
 
-<br>
-
-**Technologies & Tools**  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" title="Scikit-Learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+<div align="center">
+  <i>Always learning, always building 🚀</i>
 </div>
-
-<br>
-
-**Let's Connect**  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="mailto:muhalwan12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhalwan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-</div>
-  
-</td>
-</tr>
-</table>
