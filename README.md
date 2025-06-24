@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="machine-learning-animation" />
 </div>
 
-## 🚀 Machine Learning Engineer
-
-Ordinary engineer
-
 ### About Me
 
 - 🔭 **Currently:** Building scalable ML systems and experimenting with cutting-edge architectures
